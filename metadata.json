@@ -1,0 +1,6 @@
+{
+  "name": "IdeaToPRD - Product Planning Assistant",
+  "description": "A friendly, beginner-focused assistant that turns rough app ideas into detailed, builder-ready Product Requirements Documents (PRDs) with feature lists, user stories, and AI builder prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
